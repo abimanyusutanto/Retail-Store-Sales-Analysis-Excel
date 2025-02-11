@@ -10,7 +10,7 @@ This project is focused on cleaning and visualizing data from a retail store sal
 - **Price Per Unit, Quantity, and Total Spent Columns**: Missing values were corrected using the fundamental sales formula :
 
   $$
-  Price Per Unit \times Quantity = Total Spent
+  **Price Per Unit \times Quantity = Total Spent**
   $$
   
   This ensured that any inconsistencies in price or quantity were addressed accurately.
