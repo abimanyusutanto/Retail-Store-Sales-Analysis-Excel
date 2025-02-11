@@ -9,7 +9,7 @@ This project is focused on cleaning and visualizing data from a retail store sal
 - **Item Column**: Missing values were imputed by matching the corresponding Category column.
 - **Price Per Unit, Quantity, and Total Spent Columns**: Missing values were corrected using the fundamental sales formula :
 
-  $Price Per Unit X Quantity = Total Spent
+  $\Price Per Unit X Quantity = Total Spent
   
   This ensured that any inconsistencies in price or quantity were addressed accurately.
 - **Discount Applied Column**: Missing values were estimated based on transaction details and logical assumptions, ensuring accurate discount representation.
