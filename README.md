@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is focused on cleaning and visualizing data from a retail store sales dataset. The objective is to ensure data integrity, handle missing values effectively, and generate insightful visualizations for better business understanding. By addressing inconsistencies in sales data, this analysis helps in making data-driven decisions for retail operations.
+This project is focused on cleaning and visualizing data from a retail store sales dataset. The objective is to ensure data integrity, handle missing values effectively, and generate insightful visualizations for better business understanding. By addressing inconsistencies in sales data, this analysis helps in making data-driven decisions for retail operations. More information about the dataset can be seen [here](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)
 
 ## Data Cleaning Process
 
