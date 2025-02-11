@@ -19,6 +19,7 @@ This project is focused on cleaning and visualizing data from a retail store sal
 ![image](https://github.com/user-attachments/assets/58563397-ba5a-47fc-b97e-da1979e22fee)
 
 Objective: To understand customer payment preferences and how they impact total revenue.
+
 Insights:
   - The analysis compares different payment methods, such as cash, credit card, and digital wallets.
   - Businesses can use this insight to optimize payment processing options, offer discounts for specific payment methods, or introduce new payment solutions.
@@ -30,6 +31,7 @@ Insights:
 ![image](https://github.com/user-attachments/assets/c17f6e22-14d2-4988-9f01-e45796e795eb)
 
 Objective: To identify which product categories generate the highest revenue.
+
 Insights :
   - This visualization highlights the total revenue contribution of each product category.
   - Categories with consistently high sales can indicate customer preference, while low-performing categories may require promotional strategies or stock adjustments.
@@ -40,6 +42,7 @@ Insights :
 ![image](https://github.com/user-attachments/assets/197c6898-4da4-480d-ad7d-5e425b2df24b)
 
 Objective: To track sales performance across different months and identify seasonal trends.
+
 Insights :
   - The trend line showcases fluctuations in total revenue across months, helping to identify peak sales periods.
   - Spikes in revenue could correspond to seasonal events, holiday sales, or promotional campaigns.
@@ -50,6 +53,7 @@ Insights :
 ![image](https://github.com/user-attachments/assets/9369ea84-9282-4f7d-b876-91c944125b38)
 
 Objective: To evaluate the difference in sales performance between physical stores and online transactions.
+
 Insights:
   - This visualization provides a side-by-side comparison of revenue generated from online and in-store sales.
   - If online sales outperform in-store sales, it suggests a shift towards digital purchasing behavior, encouraging businesses to enhance their e-commerce platforms.
